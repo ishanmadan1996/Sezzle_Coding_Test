@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sezzle-collab-calc/static/css/main.46e65095.chunk.css",
+    "main.js": "/sezzle-collab-calc/static/js/main.45e65e12.chunk.js",
+    "main.js.map": "/sezzle-collab-calc/static/js/main.45e65e12.chunk.js.map",
+    "runtime-main.js": "/sezzle-collab-calc/static/js/runtime-main.21468571.js",
+    "runtime-main.js.map": "/sezzle-collab-calc/static/js/runtime-main.21468571.js.map",
+    "static/js/2.c3454666.chunk.js": "/sezzle-collab-calc/static/js/2.c3454666.chunk.js",
+    "static/js/2.c3454666.chunk.js.map": "/sezzle-collab-calc/static/js/2.c3454666.chunk.js.map",
+    "index.html": "/sezzle-collab-calc/index.html",
+    "precache-manifest.0948c8a756f25ec055a521be3120b3ad.js": "/sezzle-collab-calc/precache-manifest.0948c8a756f25ec055a521be3120b3ad.js",
+    "service-worker.js": "/sezzle-collab-calc/service-worker.js",
+    "static/css/main.46e65095.chunk.css.map": "/sezzle-collab-calc/static/css/main.46e65095.chunk.css.map",
+    "static/js/2.c3454666.chunk.js.LICENSE": "/sezzle-collab-calc/static/js/2.c3454666.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21468571.js",
+    "static/js/2.c3454666.chunk.js",
+    "static/css/main.46e65095.chunk.css",
+    "static/js/main.45e65e12.chunk.js"
+  ]
+}
