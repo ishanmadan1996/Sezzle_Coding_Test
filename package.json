@@ -9,16 +9,16 @@
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
     "cssnano": "^4.1.10",
     "express": "^4.17.1",
-    "http-server": "^0.12.0",
+    "http-server": "^0.12.3",
     "ipfs": "^0.40.0",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "react-scripts": "3.3.0",
-    "serialize-javascript": "^2.1.1",
+    "serialize-javascript": "^2.1.2",
     "socket.io": "^2.3.0",
     "socket.io-client": "^2.3.0",
     "styled-components": "^4.4.1",
@@ -26,7 +26,7 @@
     "y-ipfs-connector": "^2.3.0",
     "y-memory": "^8.0.9",
     "y-text": "^9.5.1",
-    "yjs": "^13.0.0-78"
+    "yjs": "^13.2.0"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -53,6 +53,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^2.2.0"
   }
 }
